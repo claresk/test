@@ -1,3 +1,4 @@
 [
-  { "photo": "photos/image1.jpg", "lat": 40.7580, "lng": -73.9855 }
+  { "photo": "photos/image1.jpg", "lat": 40.7580, "lng": -73.9855 },
+  { "photo": "photos/image2.png", "lat": 40.753480, "lng": -73.980902 }
 ]
